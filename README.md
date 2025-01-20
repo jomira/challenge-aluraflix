@@ -1,6 +1,6 @@
 # Challenge Aluraflix
 
-![Aluraflix](![AluraFlix](https://github.com/user-attachments/assets/28c68d4c-3dea-44fb-99f9-ae74c96151b4)
+(![AluraFlix](https://github.com/user-attachments/assets/28c68d4c-3dea-44fb-99f9-ae74c96151b4)
 )
 
 Aluraflix es una aplicación de catálogo de videos inspirada en Netflix, diseñada para administrar y visualizar videos organizados por categorías. Este proyecto es parte de un desafío del programa Oracle Next Education (ONE).
