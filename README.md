@@ -1,6 +1,7 @@
-# Aluraflix
+# Challenge Aluraflix
 
-![Aluraflix]()
+![Aluraflix](![AluraFlix](https://github.com/user-attachments/assets/28c68d4c-3dea-44fb-99f9-ae74c96151b4)
+)
 
 Aluraflix es una aplicación de catálogo de videos inspirada en Netflix, diseñada para administrar y visualizar videos organizados por categorías. Este proyecto es parte de un desafío del programa Oracle Next Education (ONE).
 
@@ -22,27 +23,6 @@ Aluraflix es una aplicación de catálogo de videos inspirada en Netflix, diseñ
 - **Styled-components**: Estilización de componentes.
 - **MockAPI**: Simulación de una API REST.
 - **React Router**: Navegación en la aplicación (si corresponde).
-
----
-
-## **Instalación**
-Sigue estos pasos para instalar y ejecutar el proyecto localmente:
-
-1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/tu-usuario/aluraflix.git
-   cd aluraflix
-   ```
-
-2. Instala las dependencias:
-   ```bash
-   npm install
-   ```
-
-3. Ejecuta la aplicación:
-   ```bash
-   npm start
-   ```
 
 ---
 
